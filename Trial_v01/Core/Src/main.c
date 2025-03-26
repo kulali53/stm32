@@ -26,7 +26,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+// deneme amaclı
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
